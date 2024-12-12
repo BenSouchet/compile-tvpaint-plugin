@@ -72,14 +72,14 @@ cd C:\Boost
 
 Open your user environment variables window
 
-![Screenshot 2024-12-11 181900](https://github.com/user-attachments/assets/19e63393-0b85-44f2-bba1-113b45ce9401)
+![Screenshot 2024-12-11 181900](https://github.com/user-attachments/assets/3a2359fe-c7bc-433c-9d8d-9aa994806199)
+
 
 And add a new environment variable:
 
 `BOOST_ROOT` : `C:\Boost\Boost_Install`
 
-![Screenshot 2024-12-11 182148](https://github.com/user-attachments/assets/641e7ff1-b455-4db5-9428-d12fd6a07f73)
-
+![Screenshot 2024-12-11 182148](https://github.com/user-attachments/assets/a8d793a6-ff75-4e2b-b430-9cce9684f177)
 
 ## Step 4: (Optional) OpenSSL
 If you need openSSL for your compilation you should use the version from [Shining Light Productions](https://slproweb.com/products/Win32OpenSSL.htm).
@@ -108,7 +108,7 @@ Here we go!
 1. First, update your `CMakeLists.txt` to point to the correct folders you retrieved / downloaded/ installed.
 2. Now a **Developer Command Prompt for VS** in admin (right click > Run as administrator), navigate to the location where you `CMakeLists.txt` is, and then run:
 
-![Screenshot 2024-12-11 192805](https://github.com/user-attachments/assets/d0802e16-3a71-4dd1-9f86-65320344e834)
+![Screenshot 2024-12-11 192805](https://github.com/user-attachments/assets/e061ef36-4717-4526-9c99-1d58842e71bb)
 
 ```cmd
 cmake .
