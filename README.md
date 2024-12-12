@@ -26,12 +26,12 @@ If you have a recent version of Visual Studio, open the Visual Studio Installer 
 
 You can also install the Desktop development with C++ workload without a full Visual Studio IDE installation. From the Visual Studio Downloads page, scroll down until you see Tools for Visual Studio under the All Downloads section and select the download for Build Tools for Visual Studio 2022.
 
-![Build Tools for Visual Studio download](https://github.com/user-attachments/assets/ff2f32f1-b28d-4d31-829f-2b5d03389f67)
+![Build Tools for Visual Studio download](https://github.com/user-attachments/assets/817b7f57-5263-4bbf-a8f6-4cf35567c192)
 
 
 This will launch the Visual Studio Installer, which will bring up a dialog showing the available Visual Studio Build Tools workloads. Check the Desktop development with C++ workload and select Install.
 
-![Cpp build tools workload](https://github.com/user-attachments/assets/66fdb193-f0f6-496f-a08f-f037049374ec)
+![Cpp build tools workload](https://github.com/user-attachments/assets/2febd320-0a51-4241-b5d4-63ba771ad6cc)
 
 > Note: You can use the C++ toolset from Visual Studio Build Tools along with Visual Studio Code to compile, build, and verify any C++ codebase as long as you also have a valid Visual Studio license (either Community, Pro, or Enterprise) that you are actively using to develop that C++ codebase.
 
@@ -40,11 +40,11 @@ To use MSVC from a command line or VS Code, you must run from a Developer Comman
 
 To open the Developer Command Prompt for VS, start typing 'developer' in the Windows Start menu, and you should see it appear in the list of suggestions. The exact name depends on which version of Visual Studio or the Visual Studio Build Tools you have installed. Select the item to open the prompt.
 
-![Developer Command Prompt](https://github.com/user-attachments/assets/a7816a5d-afde-4189-a9d9-d4c3b0479bf2)
+![Developer Command Prompt](https://github.com/user-attachments/assets/17d9ee37-c4d9-40c4-8808-bbd690d13d69)
 
 You can test that you have the C++ compiler, cl.exe, installed correctly by typing 'cl' and you should see a copyright message with the version and basic usage description.
 
-![Checking cl.exe installation](https://github.com/user-attachments/assets/53fcfab6-f4fe-4180-b89b-c95032480571)
+![Checking cl.exe installation(https://github.com/user-attachments/assets/a02edfbe-89bf-4e6b-a23e-8031016be0a5)
 
 ## Step 2: (Optional) Install Boost C++
 
