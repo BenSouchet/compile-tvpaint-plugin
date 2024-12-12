@@ -44,7 +44,7 @@ To open the Developer Command Prompt for VS, start typing 'developer' in the Win
 
 You can test that you have the C++ compiler, cl.exe, installed correctly by typing 'cl' and you should see a copyright message with the version and basic usage description.
 
-![Checking cl.exe installation(https://github.com/user-attachments/assets/a02edfbe-89bf-4e6b-a23e-8031016be0a5)
+![Checking cl.exe installation](https://github.com/user-attachments/assets/a02edfbe-89bf-4e6b-a23e-8031016be0a5)
 
 ## Step 2: (Optional) Install Boost C++
 
