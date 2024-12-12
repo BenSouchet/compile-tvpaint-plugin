@@ -82,7 +82,7 @@ And add a new environment variable:
 
 
 ## Step 4: (Optional) OpenSSL
-If you need openSSL for your compilation you should use the version from (Shining Light Productions)[https://slproweb.com/products/Win32OpenSSL.html] .
+If you need openSSL for your compilation you should use the version from [Shining Light Productions](https://slproweb.com/products/Win32OpenSSL.htm).
 Yes the website seems to come from the 90s and have stay in it, it's true, BUT it's the easiest way without building manually OpenSSL to get the correct LIB and HEADERS files.
 
 1. Go to [this page](https://slproweb.com/products/Win32OpenSSL.html) and downlaod the correct MSI installed for your platform (x64 or x86).
