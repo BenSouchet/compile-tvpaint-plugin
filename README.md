@@ -113,6 +113,12 @@ Here we go!
 ```cmd
 cmake .
 ```
+
+For `x86` (x32) build the command need to be:
+```
+cmake -G "Visual Studio 17 2022" -A Win32 .
+```
+
 3. Check the logs, fix the issues (you will probably have some the first time, or you are just too good and you can take an ice cream, you deserve it!)
 4. Last but not least, the true generation of your TV Paint dll plugin, run the command:
 ```cmd
