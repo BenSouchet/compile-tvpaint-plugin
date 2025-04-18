@@ -83,7 +83,7 @@ And by adding the `"${TVPAINT_SDK_LIB}/dllx.c"` as the last element in the `add_
 
 ## Step 6: The Building Phase
 
-**I highly recommend you check the exemple CMakeLists.txt to ensure yours is properly configured.**
+**I highly recommend you check the exemple [CMakeLists.txt](https://github.com/BenSouchet/compile-tvpaint-plugin/blob/main/CMakeLists.txt) to ensure yours is properly configured.**
 
 **CAUTION: If you want to properly use your plugin for TVPaint 12 or newer you will need to replace all DWORDs in your plugin code with INTPTRs (search and replace)**
 
